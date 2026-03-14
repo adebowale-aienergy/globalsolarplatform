@@ -1,1 +1,13 @@
-
+fastapi
+uvicorn[standard]
+pydantic
+pydantic-settings
+pandas
+numpy
+scikit-learn==1.6.1
+joblib
+python-dotenv
+requests
+streamlit
+pytest
+httpx
